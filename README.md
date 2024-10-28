@@ -3,7 +3,7 @@ Project Overview
 Health Management Master is a comprehensive health management application that integrates functions such as health data tracking, diet management, exercise planning, health information push, and medical appointment reminders. The project is divided into four main modules (user registration and login, health data collection, health data analysis, notifications and reminders), with each module corresponding to a GitHub branch.
 
 
-##Branch Description
+Branch Description
 
 1. feature/user-authentication  
 -Function: Implement user registration and login functions.
